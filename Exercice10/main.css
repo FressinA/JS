@@ -1,0 +1,21 @@
+.div{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(red, green, blue);
+}
+.div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(42,44,165);
+}
+.divC{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(42,44,165)
+}
+.divD{
+    float:left;
+    color:beige;
+    width: 100px;
+    background-color: rgb(165, 42, 132);
+}
